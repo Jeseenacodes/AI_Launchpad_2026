@@ -11,7 +11,7 @@
 ![Investigation Frameworks](https://img.shields.io/badge/Investigation-Frameworks-orange?style=for-the-badge)
 ![KPI Recommendations](https://img.shields.io/badge/KPI-Recommendations-green?style=for-the-badge)
 ![Executive Insights](https://img.shields.io/badge/Executive-Insights-red?style=for-the-badge)
-![Built by Jeseena Parveen K](https://img.shields.io/badge/Built%20By-Gardens-black?style=for-the-badge)
+![Built by Jeseena Parveen K](https://img.shields.io/badge/Built%20By-Jeseena-Parveen-K-black?style=for-the-badge)
 
 > Transform business questions into structured investigations, actionable insights, and leadership-ready recommendations.
 
