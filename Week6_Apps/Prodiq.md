@@ -9,7 +9,7 @@
 
 Turn customer feedback into prioritized product opportunities.
 
-Link: https:// prodiq.base44.app 
+Link: [https:// prodiq.base44.app ](https:// prodiq.base44.app) 
 
 ## Overview
 
