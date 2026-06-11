@@ -1,5 +1,5 @@
 
-# Priorly - Product Discovery Assistant
+# Prodiq - Product Discovery Assistant
 
 ![AI](https://img.shields.io/badge/AI-Powered-4F46E5?style=flat-square)
 ![Analytics](https://img.shields.io/badge/Product-Analytics-10B981?style=flat-square)
