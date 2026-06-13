@@ -156,21 +156,15 @@ Output:
 
 ### Home Screen
 
-Add screenshot here:
-
 <img width="782" height="912" alt="image" src="https://github.com/user-attachments/assets/44126a7c-c8a6-4156-93e3-6ba3e5d7e0fb" />
 
 <img width="787" height="915" alt="image" src="https://github.com/user-attachments/assets/2d590b9e-b427-4d78-9b9f-9316d1a82d3f" />
 
 ### Analysis Results
 
-Add screenshot here:
-
 <img width="594" height="501" alt="image" src="https://github.com/user-attachments/assets/618cb6a2-971c-4542-bb2a-22e06c904834" />
 
 ### Opportunity Ranking
-
-Add screenshot here:
 
 <img width="597" height="402" alt="image" src="https://github.com/user-attachments/assets/7911fe43-046b-4a55-9f7a-019ba2ff1d66" />
 
