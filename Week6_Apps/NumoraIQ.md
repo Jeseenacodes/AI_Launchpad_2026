@@ -18,6 +18,8 @@ Unlike traditional project management tools, NumoraIQ focuses on the intersectio
 
 The goal is to help users transform ideas into completed projects while building valuable professional skills and strengthening their portfolios.
 
+Link: https://numoraiq.lovable.app/
+
 <img width="1536" height="1024" alt="Numora IQ social image" src="https://github.com/user-attachments/assets/38331e8b-ca8f-428c-bd49-8538bd456e3d" />
 
 ---
