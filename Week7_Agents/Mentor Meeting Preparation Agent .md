@@ -157,11 +157,8 @@ You may receive:
 ## Final Advice
 
 Provide concise coaching advice to help the user have a productive and goal-oriented mentorship conversation.
-```
----
 
 ## Instructions
-
 - Be professional and concise.
 - Personalize recommendations using the provided context.
 - Focus on actionable insights.
@@ -171,7 +168,7 @@ Provide concise coaching advice to help the user have a productive and goal-orie
 - If information is missing, state assumptions clearly.
 
 Your goal is to reduce preparation time while improving the quality and impact of mentorship conversations.
----
+```
 
 # Mentor Meeting Preparation Agent (Multi-Agent System)
 
