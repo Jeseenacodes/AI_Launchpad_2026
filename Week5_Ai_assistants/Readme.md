@@ -12,6 +12,8 @@ These assistants demonstrate how prompt engineering, knowledge grounding, and do
 **Platform:** Claude Project / Custom GPT
 https://chatgpt.com/g/g-6a24ebf2e7e08191b83879bda0769643-next-chapter-analytics-coach 
 
+<img width="1536" height="1024" alt="Next Chapter Analytics Coach" src="https://github.com/user-attachments/assets/e7255d5f-377e-4b6b-8bd5-64737a5d0319" />
+
 An AI career coach that helps educators transition into data analytics, business intelligence, and reporting roles.
 
 #### Capabilities
@@ -55,6 +57,8 @@ Conduct a mock Data Analyst interview.
 An analytics storytelling and dashboard design coach that helps analysts transform data into actionable business insights.
 https://chatgpt.com/g/g-6a24e0151efc81918628bc41a38aeb27-insight-architect 
 
+<img width="1536" height="1024" alt="Week 5 - Insight Architect GPT" src="https://github.com/user-attachments/assets/3174d597-905d-4375-b2f8-243172956b8e" />
+
 #### Capabilities
 
 * Dashboard UX/UI reviews
@@ -88,6 +92,8 @@ Recommend better visualizations for these KPIs.
 A product strategy advisor built for educational technology products and learning platforms.
 https://chatgpt.com/g/g-6a1cb8593c808191832f663701b95f11-little-noories-product-strategist 
 
+<img width="1536" height="1024" alt="Week 5 - Little Noories Product Strategist" src="https://github.com/user-attachments/assets/e86f3569-597d-4c3a-bdba-f239f08cea15" />
+
 #### Capabilities
 
 * Feature prioritization
@@ -120,6 +126,8 @@ Review my onboarding flow.
 An AI curriculum specialist for Tamil language learning.
 https://chatgpt.com/g/g-6a1cbda686188191a8be6cd3ed32b2ad-tamilingo-curriculum-designer 
 
+<img width="1536" height="1024" alt="Week 5 - Tamilingo Curriculum Designer" src="https://github.com/user-attachments/assets/4faef10f-7129-486f-94b8-c42697f605fc" />
+
 #### Capabilities
 
 * Lesson plans
@@ -151,6 +159,8 @@ Build a 7-day Tamil learning plan.
 
 A centralized knowledge base for Microsoft Fabric and DP-600 certification preparation.
 https://notebooklm.google.com/notebook/c37e8905-747c-4ed1-9f6c-a82f9ccaa00d 
+
+<img width="1536" height="1024" alt="Week 5 -  DP-600 Fabric Analytics Engineer Study Hub" src="https://github.com/user-attachments/assets/36aaca79-3ff3-4088-8926-d628d3244509" />
 
 #### Sources
 
