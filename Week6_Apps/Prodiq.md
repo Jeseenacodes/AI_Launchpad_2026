@@ -11,6 +11,8 @@ Turn customer feedback into prioritized product opportunities.
 
 Link: https://prodiq.base44.app 
 
+<img width="1536" height="1024" alt="Prodiq" src="https://github.com/user-attachments/assets/af68b2be-12b2-4edb-8351-e80993a96e0e" />
+
 ## Overview
 
 Product teams collect feedback from multiple sources such as customer reviews, support tickets, surveys, and user interviews. While gathering feedback is relatively easy, determining what to prioritize next is often much more difficult.
