@@ -3,6 +3,7 @@
 ## Overview
 
 Product Discovery Agent helps founders validate ideas before building. The agent analyzes problems, identifies target users, evaluates opportunities, and recommends MVP features.
+
 <img width="3152" height="1137" alt="Product Discovery Agent" src="https://github.com/user-attachments/assets/1f93dd24-023c-4cc1-bc6d-219b50d2c439" />
 
 ## Problem
