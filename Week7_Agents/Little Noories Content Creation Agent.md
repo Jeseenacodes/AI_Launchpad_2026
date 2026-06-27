@@ -3,6 +3,7 @@
 ## Overview
 
 Little Noories Content Creation Agent is an AI-powered educational content assistant that helps generate engaging Islamic learning experiences for children.
+<img width="3152" height="1137" alt="Little Noories Content Agent" src="https://github.com/user-attachments/assets/f37cdf26-c8bc-4f5b-a29e-3742ff1c106a" />
 
 ## Problem
 
