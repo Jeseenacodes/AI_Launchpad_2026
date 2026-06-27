@@ -286,7 +286,7 @@ Human approval required before:
 # 📂 Data Analyst Portfolio Builder Agent
 The **Data Analyst Portfolio Builder Agent** is a conceptual multi-agent AI system that helps aspiring analysts build recruiter-ready portfolios. Specialized agents recommend projects, discover datasets, generate GitHub documentation, and organize portfolio assets to showcase technical skills and improve employability.
 
-<img width="1224" height="816" alt="Data Analyst Portfolio Builder Agent (1)" src="https://github.com/user-attachments/assets/07785b92-da32-4b8f-86bd-ff7ed437eef1" />
+<img width="1456" height="686" alt="Data Analyst Portfolio Builder Agent" src="https://github.com/user-attachments/assets/c62c1eeb-aa1c-4674-b049-3136a04e8ef3" />
 
 ---
 
