@@ -23,7 +23,9 @@ Link:  https://numuviq.lovable.app/
 
 <img width="1536" height="1024" alt="NumuvIQ" src="https://github.com/user-attachments/assets/6bbc3ec4-b0d6-434f-b78a-080fc5d79b7a" />
 
+<img width="1141" height="669" alt="image" src="https://github.com/user-attachments/assets/a682cba1-5bba-4039-8a6a-39dc1b3e13ee" />
 
+<img width="1150" height="678" alt="image" src="https://github.com/user-attachments/assets/a56e5846-ff38-4980-9dae-6cfed571e617" />
 
 ## Overview
 
