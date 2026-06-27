@@ -20,7 +20,10 @@ NUMUVIQ is an analyst platform designed to help Data Analysts, Product Analysts,
 Instead of starting with dashboards, SQL queries, or reports, NUMUVIQ helps users define investigation paths, identify key metrics, recommend visualizations, generate stakeholder questions, and create actionable recommendations.
 
 Link:  https://numuviq.lovable.app/ 
----
+
+<img width="1536" height="1024" alt="NumuvIQ" src="https://github.com/user-attachments/assets/6bbc3ec4-b0d6-434f-b78a-080fc5d79b7a" />
+
+
 
 ## Overview
 
