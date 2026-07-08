@@ -521,6 +521,8 @@ Insert AI Assistant Screenshot
 
 File:
 assets/screenshots/ai-assistant.png
+<img width="1627" height="781" alt="image" src="https://github.com/user-attachments/assets/4c833788-e7d8-4011-85bf-5b32af2ca8da" />
+
 ```
 
 ---
