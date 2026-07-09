@@ -53,23 +53,6 @@ AI-powered healthcare platform that helps people organize their medical journey,
 
 ---
 
-<p align="center">
-
-### 🌐 Live Demo • 📖 Documentation • 🎥 Demo • 💼 Portfolio
-
-> **TODO**
->
-> Replace with:
->
-> - Live Application
-> - Demo Video
-> - Portfolio
-> - Numuv Labs Website
-
-</p>
-
----
-
 # Overview
 
 Healthcare information is often scattered across paper records, patient portals, emails, prescriptions, lab reports, and handwritten notes.
