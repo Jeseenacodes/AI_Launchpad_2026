@@ -43,14 +43,6 @@ AI-powered healthcare platform that helps people organize their medical journey,
 
 </p>
 
-
-
-<p align="center">
-
-<!-- TODO: Replace with actual repository links -->
-
-</p>
-
 ---
 
 # Overview
@@ -413,10 +405,6 @@ Receive reminders for:
 
 # Product Gallery
 
-> **TODO**
->
-> Replace each placeholder with high-quality screenshots from the application.
-
 ---
 
 ## Dashboard
@@ -643,8 +631,6 @@ Rihla+ follows a modern cloud-native architecture built around React, Supabase, 
 ---
 
 ## 🏛 High-Level Architecture
-
-> **TODO:** Replace the diagram below with a professional architecture diagram (`assets/diagrams/system-architecture.svg`).
 
 ```text
                           ┌──────────────────────────┐
@@ -1437,32 +1423,20 @@ Every contribution helps improve the platform.
 
 ---
 
-<div align="center">
-
 # 🩺 Rihla+
 
 ### Your AI Companion for Every Step of Your Health Journey
-
----
 
 **Healthcare should feel organized—not overwhelming.**
 
 Rihla+ helps individuals organize their health records, understand their medical information, prepare for appointments, and gain meaningful AI-powered insights—all within one secure, modern platform.
 
----
-
 **Built with ❤️ by Jeseena Parveen K**
 
 *Designing thoughtful AI products that empower people.*
-
----
 
 ### 🌐 Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeseena-parveen-k/)
 
----
-
 ### ⭐ If you enjoyed this project, consider giving it a star!
-
-</div>
