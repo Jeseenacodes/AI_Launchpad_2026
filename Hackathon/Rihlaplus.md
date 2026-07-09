@@ -61,7 +61,7 @@ Rihla+ is designed to help individuals become more informed, organized, and conf
 
 # Vision
 
-> **Healthcare should feel organized—not overwhelming.**
+> **Healthcare should feel organized - not overwhelming.**
 
 Our mission is to empower individuals by combining thoughtful design, secure health record management, artificial intelligence, and modern user experience into one trusted digital health companion.
 
