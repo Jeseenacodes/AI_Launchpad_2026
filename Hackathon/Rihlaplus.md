@@ -209,8 +209,6 @@ Replace the placeholders below with actual screenshots.
 ## Dashboard
 
 ```
-[ Add Dashboard Screenshot Here ]
-
 
 ```
 <img width="1764" height="922" alt="image" src="https://github.com/user-attachments/assets/435c2035-2366-403b-bf01-ade93c123061" />
@@ -222,7 +220,6 @@ Replace the placeholders below with actual screenshots.
 ## Health Timeline
 
 ```
-[ Add Timeline Screenshot Here ]
 ```
 <img width="1744" height="931" alt="image" src="https://github.com/user-attachments/assets/c7450e9f-d4e2-4073-b9e9-f61ac52f546c" />
 
@@ -241,12 +238,7 @@ Replace the placeholders below with actual screenshots.
 ## AI Health Assistant
 
 ```
-[ Add AI Assistant Screenshot Here ]
-
 ```
-<img width="1631" height="761" alt="image" src="https://github.com/user-attachments/assets/c2e2ca7d-81f5-430d-8534-b26908481990" />
-
-<img width="1145" height="482" alt="image" src="https://github.com/user-attachments/assets/f29914cc-05ee-4d04-bac0-3073c6e5af92" />
 
 <img width="1644" height="759" alt="image" src="https://github.com/user-attachments/assets/8fdeaa38-fcd8-4eb2-a2d5-496143f6e0c9" />
 
@@ -256,14 +248,12 @@ Replace the placeholders below with actual screenshots.
 
 <img width="1125" height="567" alt="image" src="https://github.com/user-attachments/assets/1fb9be1b-6f83-4465-af5c-7e0e48b6f227" />
 
-<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/3c6bbd0f-3f12-4db1-b84b-4197ecd8ef2d" />
+<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/3c6bbd0f-3f12-4db1-b84b-4197ecd8ef2d" /> 
 ---
 
 ## Appointment Companion
 
 ```
-[ Add Appointment Companion Screenshot Here ]
-
 
 ```
 <img width="1639" height="792" alt="image" src="https://github.com/user-attachments/assets/279cae74-e9dd-437f-b8ec-869445958e04" />
@@ -273,19 +263,11 @@ Replace the placeholders below with actual screenshots.
 ## Health Insights
 
 ```
-[ Add Health Insights Screenshot Here ]
-
-
 ```
-<img width="1644" height="759" alt="image" src="https://github.com/user-attachments/assets/8fdeaa38-fcd8-4eb2-a2d5-496143f6e0c9" />
+<img width="1631" height="761" alt="image" src="https://github.com/user-attachments/assets/c2e2ca7d-81f5-430d-8534-b26908481990" />
 
-<img width="1640" height="774" alt="image" src="https://github.com/user-attachments/assets/e6735f94-155c-4270-8743-28f88cf98477" />
+<img width="1145" height="482" alt="image" src="https://github.com/user-attachments/assets/f29914cc-05ee-4d04-bac0-3073c6e5af92" />
 
-<img width="1135" height="414" alt="image" src="https://github.com/user-attachments/assets/969011b8-41c9-4c2f-abb2-3afd00b99b70" />
-
-<img width="1125" height="567" alt="image" src="https://github.com/user-attachments/assets/1fb9be1b-6f83-4465-af5c-7e0e48b6f227" />
-
-<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/3c6bbd0f-3f12-4db1-b84b-4197ecd8ef2d" />
 
 ---
 
