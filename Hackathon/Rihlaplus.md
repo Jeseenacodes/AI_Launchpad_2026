@@ -1299,8 +1299,6 @@ No.
 
 Rihla+ is a personal healthcare organization platform that helps users manage health information and prepare for healthcare conversations.
 
----
-
 ### Can the AI diagnose illnesses?
 
 No.
@@ -1311,15 +1309,11 @@ Every AI response includes:
 
 > **Educational only. Not medical advice.**
 
----
-
 ### Is my health information private?
 
 Yes.
 
 Each user can only access their own information through authenticated access and Supabase Row Level Security (RLS).
-
----
 
 ### Can I upload medical documents?
 
