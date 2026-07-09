@@ -259,7 +259,7 @@ https://demolink
 
 ---
 
-# 📚 Table of Contents
+# Table of Contents
 
 - Overview
 - Vision
@@ -283,11 +283,6 @@ https://demolink
 - License
 
 ---
-
->  **Built with care by Jeseena Parveen K**
-
-*Helping people navigate their healthcare journey with confidence through thoughtful design and responsible AI.*
-
 </p>
 
 
@@ -1456,7 +1451,7 @@ Rihla+ helps individuals organize their health records, understand their medical
 
 ---
 
-**Built with ❤️ by Numuv Labs**
+**Built with ❤️ by Jeseena Parveen K**
 
 *Designing thoughtful AI products that empower people.*
 
@@ -1464,16 +1459,7 @@ Rihla+ helps individuals organize their health records, understand their medical
 
 ### 🌐 Links
 
-> **TODO**
-
-Replace with your final links:
-
-- 🌍 Live Demo
-- 🎥 Demo Video
-- 💼 Portfolio
-- 📄 Documentation
-- 🔗 Numuv Labs Website
-- 💼 LinkedIn
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeseena-parveen-k/)
 
 ---
 
