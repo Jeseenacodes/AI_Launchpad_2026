@@ -232,22 +232,7 @@ Stay on track with:
 
 # Product Demo
 
-> **TODO**
-
-Add one or more of the following:
-
--  YouTube Demo
--  Loom Walkthrough
--  Live Application
--  Animated GIF
-
-Example:
-
-```
-▶ Watch Demo
-
-https://demolink
-```
+https://www.youtube.com/watch?v=K4HSvudBl50 
 
 ---
 
@@ -405,22 +390,11 @@ Receive reminders for:
 
 # Product Gallery
 
----
-
 ## Dashboard
 
 **Overview of the complete healthcare workspace**
 
-```
-TODO:
-Insert Dashboard Screenshot
-
-Recommended Size:
-1600 x 900
-
-File:
-assets/screenshots/dashboard.png
-```
+<img width="3840" height="2400" alt="02_dashboard" src="https://github.com/user-attachments/assets/e4154a8f-d6e3-4803-b229-99153048343a" />
 
 ---
 
@@ -428,13 +402,7 @@ assets/screenshots/dashboard.png
 
 **Chronological record of the user's healthcare journey**
 
-```
-TODO:
-Insert Timeline Screenshot
-
-File:
-assets/screenshots/timeline.png
-```
+<img width="3840" height="2400" alt="04_timeline" src="https://github.com/user-attachments/assets/7300a6ba-8624-4321-ba8a-5dd9a71b9114" />
 
 ---
 
@@ -442,15 +410,7 @@ assets/screenshots/timeline.png
 
 **AI-generated health summaries and intelligent assistance**
 
-```
-TODO:
-Insert AI Assistant Screenshot
-
-File:
-assets/screenshots/ai-assistant.png
-<img width="1627" height="781" alt="image" src="https://github.com/user-attachments/assets/4c833788-e7d8-4011-85bf-5b32af2ca8da" />
-
-```
+<img width="3840" height="2400" alt="06_ai_assistant" src="https://github.com/user-attachments/assets/02875b48-26d5-484a-a2de-4147e9d24541" />
 
 ---
 
@@ -458,13 +418,7 @@ assets/screenshots/ai-assistant.png
 
 **Secure document storage and organization**
 
-```
-TODO:
-Insert Document Vault Screenshot
-
-File:
-assets/screenshots/documents.png
-```
+<img width="3840" height="2400" alt="05_documents" src="https://github.com/user-attachments/assets/f0a70b2f-4ea3-4d14-a6d2-1bff2bad0ba7" />
 
 ---
 
@@ -472,13 +426,7 @@ assets/screenshots/documents.png
 
 **Prepare for every healthcare visit**
 
-```
-TODO:
-Insert Appointment Companion Screenshot
-
-File:
-assets/screenshots/appointments.png
-```
+<img width="3840" height="2400" alt="07_appointment_companion" src="https://github.com/user-attachments/assets/6c43c2d1-974b-42d3-8c8d-6537725192be" />
 
 ---
 
@@ -486,13 +434,7 @@ assets/screenshots/appointments.png
 
 **Interactive charts and analytics**
 
-```
-TODO:
-Insert Insights Screenshot
-
-File:
-assets/screenshots/insights.png
-```
+<img width="3840" height="2400" alt="08_health_insights" src="https://github.com/user-attachments/assets/2b0a5136-1cfb-4467-94eb-3d829fc7d7be" />
 
 ---
 
@@ -521,34 +463,7 @@ https://rihlaplus.lovable.app/
 
 ### Product Walkthrough
 
-```
-https://youtube.com/your-demo
-```
-
----
-
-### Product GIF
-
-```
-TODO:
-
-Add a 15–30 second animated GIF
-showing:
-
-Dashboard
-↓
-
-Timeline
-↓
-
-AI Assistant
-↓
-
-Appointment Companion
-↓
-
-Insights
-```
+https://www.youtube.com/watch?v=K4HSvudBl50
 
 ---
 
