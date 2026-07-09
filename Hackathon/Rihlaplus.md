@@ -70,7 +70,7 @@ AI-powered healthcare platform that helps people organize their medical journey,
 
 ---
 
-# 🌍 Overview
+# Overview
 
 Healthcare information is often scattered across paper records, patient portals, emails, prescriptions, lab reports, and handwritten notes.
 
@@ -84,7 +84,7 @@ Rihla+ is designed to help individuals become more informed, organized, and conf
 
 ---
 
-# 🎯 Vision
+# Vision
 
 > **Healthcare should feel organized—not overwhelming.**
 
@@ -92,7 +92,7 @@ Our mission is to empower individuals by combining thoughtful design, secure hea
 
 ---
 
-# 🚀 Why Rihla+
+# Why Rihla+
 
 Modern healthcare generates an enormous amount of personal information.
 
@@ -109,7 +109,7 @@ Rihla+ transforms disconnected health information into a structured, searchable,
 
 ---
 
-# 💡 The Problem
+# The Problem
 
 | Challenges Patients Face | How Rihla+ Solves It |
 |---------------------------|----------------------|
@@ -123,11 +123,11 @@ Rihla+ transforms disconnected health information into a structured, searchable,
 
 ---
 
-# ✨ Key Capabilities
+# Key Capabilities
 
 Rihla+ combines healthcare organization with AI-powered assistance.
 
-### 🩺 Personal Health Management
+### Personal Health Management
 
 - Personal Health Profile
 - Medical History
@@ -138,7 +138,7 @@ Rihla+ combines healthcare organization with AI-powered assistance.
 
 ---
 
-### 📅 Health Timeline
+### Health Timeline
 
 Build a complete chronological record of:
 
@@ -151,7 +151,7 @@ Build a complete chronological record of:
 
 ---
 
-### 📄 Secure Medical Documents
+### Secure Medical Documents
 
 Store and organize:
 
@@ -163,7 +163,7 @@ Store and organize:
 
 ---
 
-### 🤖 AI Health Assistant
+### AI Health Assistant
 
 Generate:
 
@@ -177,7 +177,7 @@ Generate:
 
 ---
 
-### 📊 Health Insights
+### Health Insights
 
 Visualize:
 
@@ -189,7 +189,7 @@ Visualize:
 
 ---
 
-### 🔔 Smart Automation
+### Smart Automation
 
 Stay on track with:
 
@@ -200,7 +200,7 @@ Stay on track with:
 
 ---
 
-# 🖼 Product Preview
+# Product Preview
 
 > **TODO**
 
@@ -289,16 +289,16 @@ Replace the placeholders below with actual screenshots.
 
 ---
 
-# 🎥 Product Demo
+# Product Demo
 
 > **TODO**
 
 Add one or more of the following:
 
-- 🎬 YouTube Demo
-- 📹 Loom Walkthrough
-- 🌐 Live Application
-- 📱 Animated GIF
+-  YouTube Demo
+-  Loom Walkthrough
+-  Live Application
+-  Animated GIF
 
 Example:
 
@@ -335,15 +335,9 @@ https://your-demo-link.com
 
 ---
 
-> 💚 **Built with care by Numuv Labs**
+>  **Built with care by Jeseena Parveen K**
 
 *Helping people navigate their healthcare journey with confidence through thoughtful design and responsible AI.*
-
-
-
-
-
-🌐 Live Demo • 📖 Documentation • 🎥 Demo Video • 💼 Portfolio
 
 </p>
 
@@ -351,30 +345,30 @@ https://your-demo-link.com
 <!--                     FEATURES                              -->
 <!-- ========================================================= -->
 
-# ✨ Features
+#  Features
 
 Rihla+ combines modern healthcare management with responsible AI to help people organize, understand, and prepare for every stage of their health journey.
 
 ---
 
-# 🚀 Core Platform
+#  Core Platform
 
 | Feature | Description |
 |----------|-------------|
-| 🩺 Personal Health Profile | Build a secure profile including conditions, allergies, medications, providers, and emergency contacts. |
-| 📅 Health Timeline | Record symptoms, treatments, medications, appointments, and medical events in one chronological timeline. |
-| 📄 Document Vault | Securely upload, organize, and access lab reports, prescriptions, imaging, and doctor's notes. |
-| 🤖 AI Health Assistant | Generate easy-to-understand summaries, explain medical terminology, and prepare for appointments. |
-| 📊 Health Insights | Visualize trends, monitor progress, and identify patterns across your health journey. |
-| 🔔 Smart Reminders | Receive reminders for medications, appointments, and wellness check-ins. |
-| 📈 Analytics Dashboard | Track your healthcare activity with meaningful visual analytics. |
-| 🔒 Privacy First | Built with secure authentication, protected routes, and Supabase Row Level Security. |
+| Personal Health Profile | Build a secure profile including conditions, allergies, medications, providers, and emergency contacts. |
+| Health Timeline | Record symptoms, treatments, medications, appointments, and medical events in one chronological timeline. |
+| Document Vault | Securely upload, organize, and access lab reports, prescriptions, imaging, and doctor's notes. |
+| AI Health Assistant | Generate easy-to-understand summaries, explain medical terminology, and prepare for appointments. |
+| Health Insights | Visualize trends, monitor progress, and identify patterns across your health journey. |
+| Smart Reminders | Receive reminders for medications, appointments, and wellness check-ins. |
+| Analytics Dashboard | Track your healthcare activity with meaningful visual analytics. |
+| Privacy First | Built with secure authentication, protected routes, and Supabase Row Level Security. |
 
 ---
 
-# 🌟 Product Highlights
+# Product Highlights
 
-## 🩺 Health Timeline
+##  Health Timeline
 
 Track your entire healthcare journey in one place.
 
@@ -394,7 +388,7 @@ Track your entire healthcare journey in one place.
 
 ---
 
-## 🤖 AI Health Assistant
+## AI Health Assistant
 
 Your intelligent healthcare companion.
 
@@ -411,7 +405,7 @@ Generate:
 
 ---
 
-## 📄 Secure Document Vault
+## Secure Document Vault
 
 Organize important medical records.
 
@@ -429,7 +423,7 @@ Everything stays organized and searchable.
 
 ---
 
-## 📅 Appointment Companion
+## Appointment Companion
 
 Walk into every appointment prepared.
 
@@ -444,7 +438,7 @@ Automatically generate:
 
 ---
 
-## 📊 Health Insights
+## Health Insights
 
 Understand your health over time.
 
@@ -459,7 +453,7 @@ Visualize:
 
 ---
 
-## 🔔 Smart Notifications
+## Smart Notifications
 
 Never miss important healthcare activities.
 
@@ -472,7 +466,7 @@ Receive reminders for:
 
 ---
 
-# 📱 Product Gallery
+# Product Gallery
 
 > **TODO**
 >
@@ -480,7 +474,7 @@ Receive reminders for:
 
 ---
 
-## 🖼 Dashboard
+## Dashboard
 
 **Overview of the complete healthcare workspace**
 
@@ -497,7 +491,7 @@ assets/screenshots/dashboard.png
 
 ---
 
-## 🩺 Health Timeline
+## Health Timeline
 
 **Chronological record of the user's healthcare journey**
 
@@ -511,7 +505,7 @@ assets/screenshots/timeline.png
 
 ---
 
-## 🤖 AI Health Assistant
+## AI Health Assistant
 
 **AI-generated health summaries and intelligent assistance**
 
@@ -527,7 +521,7 @@ assets/screenshots/ai-assistant.png
 
 ---
 
-## 📄 Medical Documents
+## Medical Documents
 
 **Secure document storage and organization**
 
@@ -541,7 +535,7 @@ assets/screenshots/documents.png
 
 ---
 
-## 📅 Appointment Companion
+## Appointment Companion
 
 **Prepare for every healthcare visit**
 
@@ -555,7 +549,7 @@ assets/screenshots/appointments.png
 
 ---
 
-## 📊 Health Insights
+## Health Insights
 
 **Interactive charts and analytics**
 
@@ -569,7 +563,7 @@ assets/screenshots/insights.png
 
 ---
 
-## ⚙ Settings
+## Settings
 
 **Manage account preferences and notifications**
 
@@ -583,7 +577,7 @@ assets/screenshots/settings.png
 
 ---
 
-# 🎬 Product Demo
+# Product Demo
 
 Experience Rihla+ in action.
 
@@ -591,15 +585,15 @@ Experience Rihla+ in action.
 
 Replace the placeholders below with your final assets.
 
-### 🌐 Live Application
+### Live Application
 
 ```
-https://your-live-app.com
+https://rihlaplus.lovable.app/
 ```
 
 ---
 
-### 🎥 Product Walkthrough
+### Product Walkthrough
 
 ```
 https://youtube.com/your-demo
@@ -607,7 +601,7 @@ https://youtube.com/your-demo
 
 ---
 
-### 📹 Loom Demo
+### Loom Demo
 
 ```
 https://loom.com/share/...
@@ -615,7 +609,7 @@ https://loom.com/share/...
 
 ---
 
-### 📱 Product GIF
+### Product GIF
 
 ```
 TODO:
@@ -640,7 +634,7 @@ Insights
 
 ---
 
-# 🎯 User Journey
+# User Journey
 
 ```
 Create Account
@@ -669,7 +663,7 @@ Stay Organized
 
 ---
 
-# ❤️ Why Rihla+
+# Why Rihla+
 
 Unlike traditional health record applications that simply store information, Rihla+ helps users actively understand and engage with their healthcare journey.
 
@@ -677,9 +671,9 @@ By combining secure health record management, thoughtful user experience, and re
 
 ---
 
-# 🚀 MVP Scope
+#  MVP Scope
 
-## ✅ Completed
+##  Completed
 
 - Authentication
 - Personal Health Profile
@@ -693,7 +687,7 @@ By combining secure health record management, thoughtful user experience, and re
 
 ---
 
-## 🔮 Planned Roadmap
+## Planned Roadmap
 
 - Caregiver & Family Sharing
 - Healthcare Provider Portal
@@ -708,7 +702,7 @@ By combining secure health record management, thoughtful user experience, and re
 <!--                  ARCHITECTURE                             -->
 <!-- ========================================================= -->
 
-# 🏗️ System Architecture
+#  System Architecture
 
 Rihla+ follows a modern cloud-native architecture built around React, Supabase, PostgreSQL, and AI services. The application is designed with scalability, security, maintainability, and developer experience in mind.
 
@@ -763,7 +757,7 @@ The application follows several core architectural principles:
 
 ---
 
-# 📦 Core Modules
+# Core Modules
 
 | Module | Responsibility |
 |---------|----------------|
@@ -780,7 +774,7 @@ The application follows several core architectural principles:
 
 ---
 
-# 🤖 AI Workflow
+# AI Workflow
 
 Artificial intelligence is integrated responsibly throughout the platform to enhance understanding—not replace professional medical advice.
 
@@ -881,7 +875,7 @@ Receive Notifications
 
 ---
 
-# 🔐 Authentication Flow
+#  Authentication Flow
 
 Authentication is powered by Supabase Auth.
 
@@ -905,7 +899,7 @@ Protected routes ensure users can only access their own health information.
 
 ---
 
-# 💾 Data Flow
+#  Data Flow
 
 ```text
 User Input
@@ -931,7 +925,7 @@ Refresh Dashboard
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Layer | Technology |
 |--------|------------|
@@ -949,7 +943,7 @@ Refresh Dashboard
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 rihla-plus/
@@ -992,7 +986,7 @@ rihla-plus/
 
 ---
 
-# 🧩 Design Philosophy
+#  Design Philosophy
 
 The application follows a modular architecture where each feature is developed as an independent, reusable module.
 
@@ -1006,7 +1000,7 @@ Benefits include:
 
 ---
 
-# 📈 Scalability Considerations
+#  Scalability Considerations
 
 Rihla+ is designed to evolve beyond the MVP.
 
@@ -1024,7 +1018,7 @@ Planned future enhancements include:
 
 ---
 
-# 🏆 Engineering Highlights
+#  Engineering Highlights
 
 ✔ Type-safe development with TypeScript
 
@@ -1051,7 +1045,7 @@ Planned future enhancements include:
 <!--                  TESTING & DEPLOYMENT                     -->
 <!-- ========================================================= -->
 
-# 🧪 Testing
+#  Testing
 
 Rihla+ has been tested across core application workflows to ensure a reliable user experience.
 
@@ -1077,10 +1071,10 @@ Rihla+ has been tested across core application workflows to ensure a reliable us
 
 The application is optimized for:
 
-- 💻 Desktop
-- 💻 Laptop
-- 📱 Mobile
-- 📲 Tablet
+-  Desktop
+-  Laptop
+-  Mobile
+-  Tablet
 
 ---
 
@@ -1115,7 +1109,7 @@ Target Compliance:
 
 ---
 
-# 🚀 Deployment
+#  Deployment
 
 Rihla+ is designed for modern cloud deployment.
 
@@ -1163,9 +1157,9 @@ Compatible with:
 
 ---
 
-# 📈 Roadmap
+#  Roadmap
 
-## ✅ MVP (Completed)
+##  MVP (Completed)
 
 - [x] Landing Page
 - [x] Authentication
@@ -1183,7 +1177,7 @@ Compatible with:
 
 ---
 
-## 🚧 Future Roadmap
+##  Future Roadmap
 
 ### Phase 10
 
@@ -1206,7 +1200,7 @@ Compatible with:
 
 ---
 
-# ❓ Frequently Asked Questions
+#  Frequently Asked Questions
 
 ### Is Rihla+ a medical device?
 
@@ -1261,7 +1255,7 @@ Users can securely upload and organize medical documents such as:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions, ideas, and feedback are welcome.
 
@@ -1276,7 +1270,7 @@ Please ensure code follows the existing architecture and coding standards.
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
@@ -1284,7 +1278,7 @@ See the LICENSE file for details.
 
 ---
 
-# 🙌 Acknowledgements
+#  Acknowledgements
 
 Special thanks to the open-source community and the technologies that made this project possible.
 
@@ -1301,7 +1295,7 @@ Built using:
 
 ---
 
-# 💚 About Numuv Labs
+#  About Numuv Labs
 
 **Numuv Labs** is an independent AI product studio focused on building thoughtful, human-centered software that empowers people through technology.
 
@@ -1309,16 +1303,16 @@ Our products span healthcare, education, wellness, analytics, and AI-powered pro
 
 Current portfolio includes:
 
-- 🩺 Rihla+ — AI Healthcare Companion
-- 📚 Little Noories — Early Islamic Learning Platform
-- 🌍 Tamilingo — Tamil Learning for Children
-- 🌸 Rawha — Women's Wellness Platform
-- 📊 NumuvIQ — AI Analytics Workspace
-- 🚀 Prodiq — Product Discovery Platform
+-  Rihla+ — AI Healthcare Companion
+-  Little Noories — Early Islamic Learning Platform
+-  Tamilingo — Tamil Learning for Children
+-  Rawha — Women's Wellness Platform
+-  NumuvIQ — AI Analytics Workspace
+-  Prodiq — Product Discovery Platform
 
 ---
 
-# 🌟 Support the Project
+#  Support the Project
 
 If you found this project useful:
 
