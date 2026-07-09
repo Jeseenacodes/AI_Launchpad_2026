@@ -512,33 +512,7 @@ Rihla+ follows a modern cloud-native architecture built around React, Supabase, 
 
 ## High-Level Architecture
 
-```text
-                          ┌──────────────────────────┐
-                          │        End User          │
-                          └────────────┬─────────────┘
-                                       │
-                                       ▼
-                          ┌──────────────────────────┐
-                          │ React + TypeScript App   │
-                          │  Tailwind CSS + Vite     │
-                          └────────────┬─────────────┘
-                                       │
-                     ┌─────────────────┴─────────────────┐
-                     ▼                                   ▼
-        ┌────────────────────────┐          ┌────────────────────────┐
-        │     Supabase Auth      │          │      OpenAI API        │
-        └────────────┬───────────┘          └────────────┬───────────┘
-                     ▼                                   ▼
-          ┌────────────────────────┐        ┌────────────────────────┐
-          │ PostgreSQL Database    │        │ AI Health Assistant    │
-          │ Row Level Security     │        │ Summaries & Insights   │
-          └────────────┬───────────┘        └────────────────────────┘
-                       ▼
-          ┌────────────────────────┐
-          │ Supabase Storage       │
-          │ Medical Documents      │
-          └────────────────────────┘
-```
+<img width="1536" height="1024" alt="Rihla + architecture" src="https://github.com/user-attachments/assets/90f0a5c2-97d3-43f1-9d2b-21e24ed3bd80" />
 
 ---
 
