@@ -202,10 +202,6 @@ Stay on track with:
 
 # Product Preview
 
-> **TODO**
-
-Replace the placeholders below with actual screenshots.
-
 ## Dashboard
 
 <img width="1764" height="922" alt="image" src="https://github.com/user-attachments/assets/435c2035-2366-403b-bf01-ade93c123061" />
