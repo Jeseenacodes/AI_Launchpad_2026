@@ -229,37 +229,6 @@ Stay on track with:
 
 
 ---
-
-# Product Demo
-
-https://www.youtube.com/watch?v=K4HSvudBl50 
-
----
-
-# Table of Contents
-
-- Overview
-- Vision
-- Why Rihla+
-- The Problem
-- Key Capabilities
-- Product Preview
-- Demo
-- Features
-- Architecture
-- AI Workflow
-- Technology Stack
-- Project Structure
-- Installation
-- Database
-- Security
-- Roadmap
-- Testing
-- Deployment
-- Contributing
-- License
-
----
 </p>
 
 
@@ -674,7 +643,7 @@ Every AI response includes:
 
 ---
 
-# 🔄 Application Flow
+# Application Flow
 
 ```text
 Create Account
@@ -706,7 +675,7 @@ Receive Notifications
 
 ---
 
-#  Authentication Flow
+# Authentication Flow
 
 Authentication is powered by Supabase Auth.
 
@@ -730,7 +699,7 @@ Protected routes ensure users can only access their own health information.
 
 ---
 
-#  Data Flow
+# Data Flow
 
 ```text
 User Input
@@ -756,7 +725,7 @@ Refresh Dashboard
 
 ---
 
-#  Technology Stack
+# Technology Stack
 
 | Layer | Technology |
 |--------|------------|
@@ -774,7 +743,7 @@ Refresh Dashboard
 
 ---
 
-#  Project Structure
+# Project Structure
 
 ```text
 rihla-plus/
@@ -817,7 +786,7 @@ rihla-plus/
 
 ---
 
-#  Design Philosophy
+# Design Philosophy
 
 The application follows a modular architecture where each feature is developed as an independent, reusable module.
 
@@ -831,7 +800,7 @@ Benefits include:
 
 ---
 
-#  Scalability Considerations
+# Scalability Considerations
 
 Rihla+ is designed to evolve beyond the MVP.
 
@@ -849,7 +818,7 @@ Planned future enhancements include:
 
 ---
 
-#  Engineering Highlights
+# Engineering Highlights
 
 ✔ Type-safe development with TypeScript
 
@@ -916,7 +885,7 @@ Possible features:
 
 ---
 
-## 👩‍💼 Human Resources
+## Human Resources
 
 Adapt the platform into an Employee Experience Hub.
 
@@ -933,7 +902,7 @@ Possible features:
 
 ---
 
-##  Financial Services
+## Financial Services
 
 Create a Personal Financial Journey Platform.
 
@@ -950,7 +919,7 @@ Possible features:
 
 ---
 
-##  Real Estate
+## Real Estate
 
 Build a Property Ownership Portal.
 
@@ -1001,7 +970,7 @@ Possible features:
 
 ---
 
-## ✈ Travel & Hospitality
+## Travel & Hospitality
 
 Develop a Travel Journey Platform.
 
@@ -1018,28 +987,28 @@ Possible features:
 
 ---
 
-# 🏗 Platform Architecture
+# Platform Architecture
 
 The core architecture behind Rihla+ is reusable across domains because it is built around common business capabilities rather than healthcare-specific logic.
 
 Reusable modules include:
 
-- 🔐 Authentication & Authorization
-- 👤 User Profiles
-- 📅 Timeline Engine
-- 📄 Document Management
-- 🤖 AI Assistant
-- 📊 Analytics Dashboard
-- 📈 Insights Engine
-- 🔔 Notification System
-- ⚙ Settings & Preferences
-- 📱 Responsive Design System
+- Authentication & Authorization
+- User Profiles
+- Timeline Engine
+- Document Management
+- AI Assistant
+- Analytics Dashboard
+- Insights Engine
+- Notification System
+- Settings & Preferences
+- Responsive Design System
 
 By replacing the domain-specific data model and AI prompts, these modules can support entirely different industries while maintaining the same scalable architecture.
 
 ---
 
-# 🚀 Built as a Platform
+# Built as a Platform
 
 Rihla+ demonstrates more than a healthcare application—it showcases a reusable AI platform architecture that can accelerate the development of intelligent, secure, and user-centered products across industries.
 
