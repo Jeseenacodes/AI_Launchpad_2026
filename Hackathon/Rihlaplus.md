@@ -208,9 +208,6 @@ Replace the placeholders below with actual screenshots.
 
 ## Dashboard
 
-```
-
-```
 <img width="1764" height="922" alt="image" src="https://github.com/user-attachments/assets/435c2035-2366-403b-bf01-ade93c123061" />
 
 <p align="center">
@@ -219,8 +216,6 @@ Replace the placeholders below with actual screenshots.
 
 ## Health Timeline
 
-```
-```
 <img width="1744" height="931" alt="image" src="https://github.com/user-attachments/assets/c7450e9f-d4e2-4073-b9e9-f61ac52f546c" />
 
 <img width="1504" height="859" alt="image" src="https://github.com/user-attachments/assets/b819e447-b3f1-4570-95b2-9b97c188366f" />
@@ -237,9 +232,6 @@ Replace the placeholders below with actual screenshots.
 
 ## AI Health Assistant
 
-```
-```
-
 <img width="1644" height="759" alt="image" src="https://github.com/user-attachments/assets/8fdeaa38-fcd8-4eb2-a2d5-496143f6e0c9" />
 
 <img width="1640" height="774" alt="image" src="https://github.com/user-attachments/assets/e6735f94-155c-4270-8743-28f88cf98477" />
@@ -253,17 +245,12 @@ Replace the placeholders below with actual screenshots.
 
 ## Appointment Companion
 
-```
-
-```
 <img width="1639" height="792" alt="image" src="https://github.com/user-attachments/assets/279cae74-e9dd-437f-b8ec-869445958e04" />
 
 ---
 
 ## Health Insights
 
-```
-```
 <img width="1631" height="761" alt="image" src="https://github.com/user-attachments/assets/c2e2ca7d-81f5-430d-8534-b26908481990" />
 
 <img width="1145" height="482" alt="image" src="https://github.com/user-attachments/assets/f29914cc-05ee-4d04-bac0-3073c6e5af92" />
