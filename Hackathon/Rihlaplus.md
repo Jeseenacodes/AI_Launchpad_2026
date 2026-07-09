@@ -511,10 +511,6 @@ assets/screenshots/insights.png
 
 Experience Rihla+ in action.
 
-> **TODO**
-
-Replace the placeholders below with your final assets.
-
 ### Live Application
 
 ```
@@ -1436,7 +1432,6 @@ Rihla+ helps individuals organize their health records, understand their medical
 *Designing thoughtful AI products that empower people.*
 
 ### 🌐 Links
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeseena-parveen-k/)
+[LinkedIn](https://www.linkedin.com/in/jeseena-parveen-k/)
 
 ### ⭐ If you enjoyed this project, consider giving it a star!
